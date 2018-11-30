@@ -12,9 +12,9 @@
 
 	ii)  you can use the following maven command to package your spring boot application as jar.
           --mvn clean package
-           you will get the jar :-   visual-meta/target/visual-meta-0.0.1-SNAPSHOT.jar
+           you will get the jar :-   weather-api/target/weather-api-0.0.1-SNAPSHOT.jar
      iii)   Run the jar 
-       java -jar target/visual-meta-0.0.1-SNAPSHOT.jar
+       java -jar target/weather-api-0.0.1-SNAPSHOT.jar
        
 3) Open http://localhost:8080/api/v1 -- you will get welcome message 
 
