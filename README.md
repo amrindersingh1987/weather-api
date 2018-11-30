@@ -24,7 +24,7 @@
 # For Test Cases com.weather.test
      1) Junit Test case : WeatherApiControllerJunitTest
     
-    Try to write the Integration test cases  
+      Written the some integration test cases  
       WeatherApiAppTest.java
       WeatherServieTest.java
       
@@ -32,9 +32,10 @@
  I have implemented the default @EnableCaching 
   "	@Cacheable("cities")" you will find in WeatherApiService
   
-#Motivation
-# Spring Boot FrameWork With IDE Eclipse
-	The Spring Boot is the best framework to develop the Rest Api with java, because they provide complete feature to develop Micro-service architecture
+# Motivation
+  # Spring Boot FrameWork With IDE Eclipse
+	The Spring Boot is the best framework to develop the Rest Api with java, because they provide complete feature to   
+	develop Micro-service architecture
 
  
       
